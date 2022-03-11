@@ -1,0 +1,14 @@
+name: dart_helloworld
+description: A sample command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.17.0-edge.33c38e914bff88bf39d488ee9c1a3c0613a3a30c <3.0.0'
+
+# dependencies:
+#   path: ^1.8.0
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0
